@@ -21,5 +21,3 @@ This repository contains code and resources for predicting food macronutrients u
 - Jupyter Notebook
 - Common data science libraries (pandas, numpy, scikit-learn, matplotlib, etc.)
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
